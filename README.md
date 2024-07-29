@@ -1,6 +1,9 @@
 
 ### index.html for README
-<!DOCTYPE html>
+
+</head>
+<body>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,8 +31,6 @@
             height: auto;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <h1>Online Food Ordering System</h1>
         <h2>Project Overview</h2>
