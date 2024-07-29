@@ -4,7 +4,6 @@
     <!DOCTYPE html>
 <html lang="en">
 <head>
-    </style>
     <div class="container">
         <h1>Online Food Ordering System</h1>
         <h2>Project Overview</h2>
@@ -41,16 +40,15 @@
                 <pre><code>flutter run</code></pre>
             </li>
         </ol>
-        <h2>UI Design</h2>
-        <p>The UI for this project was designed using Flutter's widget library, ensuring a smooth and intuitive user experience.</p>
         <h2>Screenshots</h2>
-        <h3>Signup Page</h3>
-        <img src="images/signup.png" alt="Signup Page">
-        <h3>Login Page</h3>
-        <img src="images/login.png" alt="Login Page">
-        <h3>Loading Page</h3>
-        <img src="images/loading.png" alt="Loading Page">
-        <h2>Contributing</h2>
+    <p>You can view the UI design on Figma: <a href="https://www.figma.com/design/pj8K0EO6up2UKq3u1q1ls0/Untitled?node-id=0-1&t=EBbg2azRqPi9KQAS-0" target="_blank">Figma Design</a></p>
+    <h3>Signup Page</h3>
+    <img src="images/signup.png" alt="Signup Page">
+    <h3>Login Page</h3>
+    <img src="images/login.png" alt="Login Page">
+    <h3>Loading Page</h3>
+    <img src="images/loading.png" alt="Loading Page">
+
         <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
         <h2>License</h2>
         <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
