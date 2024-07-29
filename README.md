@@ -4,7 +4,6 @@
     <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Online Food Ordering System</title>
     </style>
     <div class="container">
         <h1>Online Food Ordering System</h1>
