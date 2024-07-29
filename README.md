@@ -1,6 +1,4 @@
-
-### index.html for README
-
+<head>
 </head>
 <body>
     <!DOCTYPE html>
